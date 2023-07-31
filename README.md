@@ -42,7 +42,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output:
 
-![output](/eigen.png)
+![output](/1.png)
 
 ## Result:
 
